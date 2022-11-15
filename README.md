@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&animation=fadeIn&section=footer&text=JeongSu&fontAlign=70&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&animation=fadeIn&section=footer&text=LeeJeongSu&fontAlign=70&fontColor=000000)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
